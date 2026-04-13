@@ -79,5 +79,3 @@ Configuração principal no `persistence.xml`:
 - `src/main/resources/sql/schema.sql`: mapeamento SQL das tabelas.
 - `src/test/java/com/biblioteca/test/TesteEmprestimoDAO.java`: teste do DAO.
 
-## Observação para entrega
-Conforme solicitado na atividade, o projeto deve ser publicado em um repositório GitHub e a entrega deve ser feita apenas com a URL do repositório.
